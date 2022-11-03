@@ -7,11 +7,35 @@
 
 
 
+body {
+  background-color: #c0c5ce;
+  padding-left: 100px;
+  padding-right: 100px;
+}
 
- .navbar img{
+nav {
+  width: 100%;
+ }
+
+.navbar img{
    display: inline-block;
    height: 40px;
    position: relative;
    width: 100px;
    margin: auto;
+ }
+
+ header {
+    margin: auto;
+    width: auto;
+    padding-top: 120px;
+    text-align: center;
+ }
+
+ .brand-item{
+  background-color: #343d46;
+ }
+
+ footer a{
+  color: #32CD32;
  }
